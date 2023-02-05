@@ -1,6 +1,6 @@
 ## ★ It`s web site
 
-- [github.ruroot.ru](https://github.com/ru-root/php-array-map](https://github.ruroot.ru)
+- [github.ruroot.ru](https://github.ruroot.ru)
 - - - - - - - - - -
 ### [Data Structures array](https://github.com/ru-root/php-array-map)
 [![https://img.shields.io/badge/PHP-8.0-blue](https://img.shields.io/badge/PHP-8.0-blue)](https://www.php.net/releases/8.0/en.php)
