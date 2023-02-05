@@ -1,6 +1,7 @@
 ## ★ It`s web site
 
 - [github.ruroot.ru](https://github.ruroot.ru)
+
 - - - - - - - - - -
 ### [Data Structures array](https://github.com/ru-root/php-array-map)
 [![https://img.shields.io/badge/PHP-8.0-blue](https://img.shields.io/badge/PHP-8.0-blue)](https://www.php.net/releases/8.0/en.php)
@@ -19,6 +20,7 @@
 [![https://img.shields.io/badge/BuildTools-1.11-black](https://img.shields.io/badge/BuildTools-1.11-black)](https://www.php.net/releases/8.0/en.php)
 
 - Навигатор по командам, скрытие команд.
+
 - - - - - - - - - - -
 
 ### [Велосипедный Autoload classes](https://github.com/ru-root/php-autoload)
@@ -26,4 +28,5 @@
 
     - PSR-0 autoloading
     - PSR-4 autoloading
+
 - - - - - - - - - - -
