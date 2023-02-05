@@ -20,3 +20,10 @@
 
 - Навигатор по командам, скрытие команд.
 - - - - - - - - - - -
+
+### [Велосипедный Autoload classes](https://github.com/ru-root/php-autoload)
+[![https://img.shields.io/badge/PHP-8.0-blue](https://img.shields.io/badge/PHP-8.0-blue)](https://www.php.net/releases/8.0/en.php)
+
+    - PSR-0 autoloading
+    - PSR-4 autoloading
+____
