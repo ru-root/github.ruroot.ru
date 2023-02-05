@@ -30,3 +30,11 @@
     - PSR-4 autoloading
 
 - - - - - - - - - - -
+
+### [Spam Database](https://github.com/ru-root/geoip-spam-db)
+
+- Blocking of international spam botnets
+    - Block IP range from countries with GeoIP
+
+- - - - - - - - - - -
+
